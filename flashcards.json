@@ -1,0 +1,67 @@
+[
+    {
+        "german": "herstellen",
+        "english": [
+            "to produce",
+            "to manufacture",
+            "to create"
+        ],
+        "examples": [
+            "Diese Firma stellt Autos her",
+            "Ich möchte Handys herstellen",
+            ""
+        ]
+    },
+    {
+        "german": "fortsetzen",
+        "english": [
+            "to continue",
+            "",
+            ""
+        ],
+        "examples": [
+            "Wir setzen das Gespräch morgen fort",
+            "Ich habe den Kurs fortgesetzt",
+            "Setz die Arbeit bitte fort!"
+        ]
+    },
+    {
+        "german": "die Schulden",
+        "english": [
+            "Debts",
+            "Liabilities",
+            ""
+        ],
+        "examples": [
+            "Ich habe viele Schulden",
+            "Er ist schuldenfrei",
+            ""
+        ]
+    },
+    {
+        "german": "abnehmen",
+        "english": [
+            "to lose weight",
+            "to decrease",
+            "to decline"
+        ],
+        "examples": [
+            "Die Teperaturen nehmen ab",
+            "Kannst du mir die Last abnehmen",
+            "Die Hitze nimmt ab"
+        ]
+    },
+    {
+        "german": "zunehmen",
+        "english": [
+            "to gain weight",
+            "to rise",
+            "to increase"
+        ],
+        "examples": [
+            "Der Wind nimmt zu",
+            "Die Bevölkerung nimmt zu",
+            ""
+        ]
+    }
+]
